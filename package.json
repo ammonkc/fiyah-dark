@@ -1,0 +1,34 @@
+{
+  "name": "fiyah-dark",
+  "displayName": "Fiyah Dark",
+  "description": "Fiyah Dark theme",
+  "version": "0.0.1",
+  "publisher": "ammonkc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ammonkc/fiyah-dark.git"
+  },
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "ammonkc",
+    "ammon casey",
+    "fiyah",
+    "fiyah dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fiyah Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fiyah Dark-color-theme.json"
+      }
+    ]
+  }
+}
