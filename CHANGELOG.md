@@ -4,6 +4,11 @@ All notable changes to the "fiyah-dark" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.2]
+
+- added an icon
+- color tweaks
+
 ## [0.0.1]
 
 - Initial release

@@ -2,8 +2,9 @@
   "name": "fiyah-dark",
   "displayName": "Fiyah Dark",
   "description": "Fiyah Dark theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ammonkc",
+  "icon": "images/fiyahIcon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/ammonkc/fiyah-dark.git"
